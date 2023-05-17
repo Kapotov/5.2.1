@@ -1,4 +1,4 @@
-# Задание - 5.2. Применение принципов IaaC в работе с виртуальными машинами.
+## Задание - 5.2. Применение принципов IaaC в работе с виртуальными машинами.
 
 > 1. Опишите своими словами основные преимущества применения на практике IaaC паттернов.
 Какой из принципов IaaC является основополагающим?
@@ -17,15 +17,15 @@ Ansible написан на Python, использует метод push, что
 
 Ответ:
 ```
-$ vboxmanage --version
+[sovar@fedora ~]$ vboxmanage --version
 6.1.32r149290
 ```
 ```
-$ vagrant -v
+[sovar@fedora ~]$ vagrant -v
 Vagrant 2.2.19
 ```
 ```
-$ ansible --version
+[sovar@fedora ~]$ ansible --version
 ansible 2.9.27
   config file = /etc/ansible/ansible.cfg
   configured module search path = ['/home/sovar/.ansible/plugins/modules', '/usr/share/ansible/plugins/modules']
@@ -39,7 +39,7 @@ ansible 2.9.27
 
 Ответ:
 ```
-$ vagrant ssh
+[sovar@fedora vagrant]$ vagrant ssh
 Welcome to Ubuntu 20.04.3 LTS (GNU/Linux 5.4.0-91-generic x86_64)
 
  * Documentation:  https://help.ubuntu.com
