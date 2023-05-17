@@ -17,11 +17,8 @@ Ansible написан на Python, использует метод push, что
 
 Ответ:
 ```
-![image](https://github.com/Kapotov/5.2.1/assets/123774335/2f6b3547-a2ac-47b5-b567-449914148429)
-```
-```
-![image](https://github.com/Kapotov/5.2.1/assets/123774335/5e57d5b9-4e11-4bfd-8b0d-977052db24ca)
-```
+![Снимок](https://github.com/Kapotov/5.2.1/assets/123774335/30b7e6c5-5cce-4faa-bc6b-f6101588f5f5)
+
 ```
 [sovar@fedora ~]$ ansible --version
 ansible 2.9.27
