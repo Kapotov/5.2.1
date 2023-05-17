@@ -21,8 +21,7 @@ Ansible написан на Python, использует метод push, что
 6.1.32r149290
 ```
 ```
-[sovar@fedora ~]$ vagrant -v
-Vagrant 2.2.19
+![image](https://github.com/Kapotov/5.2.1/assets/123774335/5e57d5b9-4e11-4bfd-8b0d-977052db24ca)
 ```
 ```
 [sovar@fedora ~]$ ansible --version
