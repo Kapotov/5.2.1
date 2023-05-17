@@ -16,18 +16,12 @@ Ansible написан на Python, использует метод push, что
 Приложить вывод команд установленных версий каждой из программ, оформленный в markdown.
 
 Ответ:
-```
+
 ![Снимок](https://github.com/Kapotov/5.2.1/assets/123774335/30b7e6c5-5cce-4faa-bc6b-f6101588f5f5)
 
-```
-[sovar@fedora ~]$ ansible --version
-ansible 2.9.27
-  config file = /etc/ansible/ansible.cfg
-  configured module search path = ['/home/sovar/.ansible/plugins/modules', '/usr/share/ansible/plugins/modules']
-  ansible python module location = /usr/lib/python3.10/site-packages/ansible
-  executable location = /usr/bin/ansible
-  python version = 3.10.0 (default, Oct  4 2021, 00:00:00) [GCC 11.2.1 20210728 (Red Hat 11.2.1-1)]
-```
+![Снимок1](https://github.com/Kapotov/5.2.1/assets/123774335/a20996a6-5c66-4e72-b902-744fe724b17f)
+
+
 
 > 4. Воспроизвести практическую часть лекции самостоятельно. Создать виртуальную машину.
 Зайти внутрь ВМ, убедиться, что Docker установлен с помощью команды `docker ps`
