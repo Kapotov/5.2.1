@@ -28,7 +28,7 @@ Ansible написан на Python, использует метод push, что
 
 Ответ:
 ```
-[sovar@fedora vagrant]$ vagrant ssh
+$ vagrant ssh
 Welcome to Ubuntu 20.04.3 LTS (GNU/Linux 5.4.0-91-generic x86_64)
 
  * Documentation:  https://help.ubuntu.com
